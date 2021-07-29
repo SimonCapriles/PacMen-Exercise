@@ -17,6 +17,7 @@ What is being **used** in this project:
 2. Push the **"Start Game"** button to make the PacMan move.
 3. Keep pushing the **"Add PacMan"** button to add multiple PacMen.
 4. Keep pushing the **"Start Game"** button to make them move faster.
+5. Refresh the page to make all the PacMen disappear.
 
 ## Improvements to come
 
