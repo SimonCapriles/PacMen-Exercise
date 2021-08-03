@@ -31,3 +31,8 @@ Who worked on this:
 
 Found some issues?  
 Write to this email: <a href="mailto:info@kyohei.com.bo"><i class="font-icon icon-envelope"></i>info@kyohei.com.bo</a>
+
+## Github
+
+Want to download or fork the project?  
+Find it on Github: [PacMen-Exercise](https://github.com/SimonCapriles/PacMen-Exercise)
